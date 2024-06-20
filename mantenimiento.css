@@ -30,7 +30,7 @@ li{ font-size: 1.em;}
       flex-direction: column;
       height: 90vh;
       color: white;
-      background-image:url("IMAGENES/REPARACION.jpg");
+      background-image:url("REPARACION.jpg");
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center center;
