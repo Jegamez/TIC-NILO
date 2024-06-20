@@ -104,6 +104,116 @@ header .container{
 display: flex;
 flex-direction: column;
 align-items: center;
+<<<<<<< HEAD
+=======
+ }
+
+ header nav{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 25px;
+     }
+header a{
+   padding: 5px 12px;
+   text-decoration: none;
+   font-weight: bold;
+   color: black;
+   }
+
+   header a:hover{
+      color: blue;
+   }
+
+   #hero{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      flex-direction: column;
+      height: 90vh;
+      color: white;
+      background-image:url("IMAGENES/ENCABEZADO\ PROGRAMADOR.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+   }
+
+   #hero h1{
+      color: white;
+   }
+
+   
+   #Somos-la-Dependencia-TIC .container{
+      text-align: center;
+      padding: 200px 12px;
+
+   }
+
+   #nuestros-servicios{
+      background-color: rgb(30,30,30);
+      color: white;
+      text-align: center;
+   }
+
+   #nuestros-servicios h2{
+      margin-top: 0;
+   }
+
+   #nuestros-servicios p{
+      display: none;
+   }
+
+   #caracteristicas .container{
+      text-align: center;
+      padding: 200px 12 px;
+   }
+   
+   #caracteristicas li{
+      margin: 16px 0px;
+      font-weight: bold;
+  }
+  
+  #final{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background-color: rgb(30,30,30);
+      color: white;
+      height: 80vh;
+  }
+  
+  #final h2{
+      font-size: 9vw;
+  }
+  
+  #final button{
+      font-size: 5vw;
+  }
+  
+  footer{
+      background-color: rgb(230,230,230);
+  }
+  
+  footer p{
+      margin: 0;
+      padding: 12px;
+      color: rgb(100,100,100);
+  }
+  
+  footer .container{
+      height: 150px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+  }
+  
+  header .container{
+   flex-direction: row;
+   justify-content: space-between;
+>>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
 }
 
 header nav{
@@ -225,10 +335,17 @@ header nav{
 
 
 #caracteristicas{
+<<<<<<< HEAD
   background-image: url("");
   background-repeat: no-repeat;
   background-size: 500px 400px;
   background-position: calc(100vw - 500px) 120px;
+=======
+   background-image: url("media/background-2.jpeg");
+   background-repeat: no-repeat;
+   background-size: 500px 400px;
+   background-position: calc(100vw - 500px) 120px;
+>>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
 }
 
 #caracteristicas .container{

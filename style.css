@@ -92,6 +92,7 @@ form{
 }
 
 .input, select {
+<<<<<<< HEAD
 padding:17px 25px;
 border-radius: 25px;
 margin-bottom: 20px;
@@ -100,3 +101,14 @@ border: 2px solid #f0faf1;
 color: #283629;
 outline: none;
 }
+=======
+    padding:17px 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    background-color: #edfff0;
+    border: 2px solid #f0faf1;
+    color: #283629;
+    outline: none;
+}
+
+>>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
