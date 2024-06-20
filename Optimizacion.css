@@ -30,11 +30,7 @@ li{ font-size: 1.em;}
       flex-direction: column;
       height: 90vh;
       color: white;
-<<<<<<< HEAD
       background-image:url("IMAGENES/OPTIMIZACION.jpg");
-=======
-      background-image:url("REPARACION.jpg");
->>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center center;
