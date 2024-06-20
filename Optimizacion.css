@@ -21,20 +21,19 @@ p{ font-size: 1.25em;}
 ul{ list-style: none;} 
 li{ font-size: 1.em;}
 
+#hero {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   flex-direction: column;
+   height: 90vh;
+   color: rgb(253, 0, 0);
+   background-size: cover;
+   background-position: center center;
+   background-image: url(IMAGENES/OPTIMIZACION.jpg);
+}
 
-   #hero{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      flex-direction: column;
-      height: 90vh;
-      color: white;
-      background-image:url("IMAGENES/OPTIMIZACION.jpg");
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: center center;
-   }
 
    #hero h1{
       color: white;
