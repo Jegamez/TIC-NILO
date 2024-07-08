@@ -104,8 +104,6 @@ header .container{
 display: flex;
 flex-direction: column;
 align-items: center;
-<<<<<<< HEAD
-=======
  }
 
  header nav{
@@ -213,7 +211,6 @@ header a{
   header .container{
    flex-direction: row;
    justify-content: space-between;
->>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
 }
 
 header nav{
@@ -335,17 +332,10 @@ header nav{
 
 
 #caracteristicas{
-<<<<<<< HEAD
-  background-image: url("");
-  background-repeat: no-repeat;
-  background-size: 500px 400px;
-  background-position: calc(100vw - 500px) 120px;
-=======
    background-image: url("media/background-2.jpeg");
    background-repeat: no-repeat;
    background-size: 500px 400px;
    background-position: calc(100vw - 500px) 120px;
->>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
 }
 
 #caracteristicas .container{

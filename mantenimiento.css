@@ -22,24 +22,6 @@ ul{ list-style: none;}
 li{ font-size: 1.em;}
 
 
-<<<<<<< HEAD
-#hero{
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   text-align: center;
-   flex-direction: column;
-   height: 90vh;
-   color: white;
-   background-image:url("REPARACION.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-position: center center;
-}
-  #hero h1{
-     color: white;
-  }
-=======
    #hero{
       display: flex;
       align-items: center;
@@ -53,7 +35,6 @@ li{ font-size: 1.em;}
       background-size: cover;
       background-position: center center;
    }
->>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
 
   
   #Somos-la-Dependencia-TIC .container{
@@ -62,10 +43,6 @@ li{ font-size: 1.em;}
 
   }
 
-<<<<<<< HEAD
- 
-=======
-   }
+   
 
   
->>>>>>> 9cf878c93a172d99e22a3bb9e5db0c7324eaafe5
